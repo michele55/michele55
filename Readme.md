@@ -10,7 +10,7 @@
 - 🔹 **Testing:** Cypress, Jest
 
 ## 📈 Statistiche GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=michele55i&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=michele55&show_icons=true&theme=radical)
 
 ## 📫 Contatti
 - Email: [russoantoniomichele9@gmail.com](mailto:mario.rossi@email.com)
