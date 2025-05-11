@@ -14,7 +14,7 @@
 
 ## 📫 Contatti
 - Email: [russoantoniomichele9@gmail.com](mailto:russoantoniomichele9@gmail.com)
-- LinkedIn: [Profilo Linkedin:](https://www.linkedin.com/in/antonio-michele-russo-933575172/)
+- LinkedIn: [Antonio Michele Russo](https://www.linkedin.com/in/antonio-michele-russo-933575172/)
 
 ---
 
